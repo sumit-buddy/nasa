@@ -6,24 +6,18 @@ import os
 import itertools
 import threading
 
-#my banner artwork **sumit**
-banner = render("nasa", colors=['blue', 'green'], align='center')
+#my banner artwork **sumit patidar**
+banner = render("nasa", colors=['green', 'blue'], align='center')
 print(banner)
-
 print(emoji.emojize(":Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner:"))
-
 print("\n")
-
 print(emoji.emojize(":fire::fire::fire::fire::fire::fire:Author : Sumit Patidar:fire::fire::fire::fire::fire::fire:"))
-
 print("\n")
-
 print(emoji.emojize(":squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue::squinting_face_with_tongue:"))
-
 print("\n")
 
 # warnings go here
-print("\033[1;36mFor Educational Purpose Only ! Don't Misuse ! \033[00m \n")
+print("\033[1;36mFor Educational Purpose Only ! Don't Misuse it use for education purpose only! \033[00m \n")
 
 
 ask = input("\033[1;33;40mWarning! It Is Very Risky. Are You Serious ? \n\nHit Enter If You Are Ready To Take The Risk ==>\033[0m \n" )
@@ -46,6 +40,8 @@ print ("\n")
 #injecting malware......<success>
 #system overtaken.......<success>
 #fetching data..........<success>
+#the above comments are only for visualisation
+
 print("\033[1;36mAttacking NASA Please Wait ! \033[00m")
 print("\n")
 animation = ["checking vulnerabilies <success>■□□□□□□□□□]","[resolving host.........<success>■■□□□□□□□□]", "[preparing bruteforce...<success>■■■□□□□□□□]", "[attacking local ftp....<success>■■■■□□□□□□]", "[testing network flow...<success>■■■■■□□□□□]", "[sending payload........<success>■■■■■■□□□□]", "[fetching chache data...<success>■■■■■■■□□□]", "[injecting malware......<success>■■■■■■■■□□]", "[system overtaken.......<success>■■■■■■■■■□]", "[fetching data..........<success>■■■■■■■■■■]"]
@@ -54,7 +50,6 @@ for i in range(len(animation)):
     time.sleep(0.5)
     sys.stdout.write("\r" + animation[i % len(animation)])
     sys.stdout.flush()
-
 
 #server controllers......<HACKED>
 #administration pass....<FETCHED>
@@ -76,10 +71,11 @@ for j in range(len(animation_1)):
     sys.stdout.flush()
     
     
-banner = render("done!", colors=['gray', 'green'], align='center')
+banner = render("wow!", colors=['green', 'gray'], align='center')
 print(banner)
 
-  
+print("thanks for using our service")
+print("you can contribute to this project easily")
  
 	
 

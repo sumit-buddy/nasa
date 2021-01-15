@@ -1,4 +1,2 @@
 python-cfonts
 emoji
-itertools
-threading
